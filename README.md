@@ -1,4 +1,6 @@
 This is the readme file for the tutorial repository.
 
 I have added a new line to the file! 11:40
-Change made in main branch
+
+Change made in dazzling_feature to provoke a conflict
+
